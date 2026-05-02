@@ -64,10 +64,10 @@ Step 7: Finalize and Export 7.1 Format the report professionally 7.2 Export as P
 
 
 Output:
+"C:\Users\acer\Downloads\prompt 2.pdf"
 
-```
-[prompt.pdf](https://github.com/user-attachments/files/27299727/prompt.pdf)
-```
+
+
 
 
 
